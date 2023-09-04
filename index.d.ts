@@ -8,4 +8,5 @@ interface AssertionErrorConstructor {
 
 declare const AssertionError: AssertionErrorConstructor;
 
-export = AssertionError;
+export = AssertionError;asd
+asdasd
