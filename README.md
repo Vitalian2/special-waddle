@@ -17,7 +17,7 @@
     $ component install chaijs/assertion-error
 
 ## License
-
+adfasdf
 (The MIT License)
 
 Copyright (c) 2013 Jake Luer <jake@qualiancy.com> (http://qualiancy.com)
