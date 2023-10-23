@@ -12,7 +12,7 @@
 
 ### Component
 
-`assertion-error` is available as a [component](https://github.com/component/component).
+`assertion-error` is available as a [component](https://github.com/component/component).adfasdf
 
     $ component install chaijs/assertion-error
 
