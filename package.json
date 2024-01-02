@@ -9,7 +9,7 @@
         "test",
         "assertion",
         "assertion-error"
-    ],
+    ],,
     "repository": {
         "type": "git",
         "url": "git@github.com:chaijs/assertion-error.git"
